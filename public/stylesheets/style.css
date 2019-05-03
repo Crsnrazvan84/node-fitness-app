@@ -1,19 +1,19 @@
 body {
   margin: 0px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-image: url("../images/all.jpg");
+  background-image: url(../images/allpng.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-.hcs-image {
-  background-image: url("../images/all.jpg");
+#hcs-image {
+  background-image: url(../images/allpng.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-.hcs-text {
+#hcs-text {
   background-color: rgba(0, 0, 0, 0.7);
   border-radius: 10px;
   text-align: center;
