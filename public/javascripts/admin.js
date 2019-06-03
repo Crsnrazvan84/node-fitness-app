@@ -33,7 +33,7 @@ var API_URL = {
     DELETE: "members/delete"
 }
 
-if (location.host === "crsnrazvan84.github.io") {
+if (location.host === "razvanwebdev.github.io") {
     API_URL.READ = "data/members.json"
 }
 
