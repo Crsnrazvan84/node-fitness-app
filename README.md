@@ -4,7 +4,7 @@ An APP designed to manage Heart Cycling Studio Member subscriptions ☺
 
 ## Live preview
 
-Open [Live demo](https://crsnrazvan84.github.io/node-fitness-members-app/public/index.html)
+Open [Live demo](https://razvanwebdeveloper.github.io/node-fitness-members-app/public/index.html)
 
 ## Structure
 
@@ -35,7 +35,7 @@ Open [Live demo](https://crsnrazvan84.github.io/node-fitness-members-app/public/
 ## Setup
 
 ```
-git clone https://github.com/1lucianmoldovan/node-fitness-app.git
+git clone https://github.com/razvanWebDeveloper/node-fitness-members-app.git
 cd node-fitness-app
 npm install
 ```
