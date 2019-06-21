@@ -265,6 +265,7 @@ tbody tr:hover {
 .main-content {
   width: 70%;
   flex: 1;
+  height: 75vh;
 }
 
 #main-sidebar {
@@ -358,7 +359,7 @@ tbody tr:hover {
 }
 
 .overflow {
-  height: 550px;
+  height: 100%;
   overflow-y: scroll;
   border-radius: 10px;
 }
@@ -395,25 +396,32 @@ tbody tr:hover {
   }
   .container {
     margin: 0;
+    height: 88vh;
   }
   .search-box {
     width: 30%;
   }
   .page-wrap {
     flex-direction: column-reverse;
+    height: 100%;
   }
   .main-content {
     width: 100%;
-    height: 40vh;
+    height: 30%;
+  }
+  .overflow {
+    height: 100%;
   }
   th, td {
     padding:2px 0px;
   }
+  .overflow::-webkit-scrollbar {
+    width: 5px;
+  }
 
   #main-sidebar {
     width: 100%;
-    height: 40vh;
-
+    height: 50%;
   }
 
   .addSessionsButton {
