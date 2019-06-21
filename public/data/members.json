@@ -11,7 +11,7 @@
     "availableSessions": "4",
     "usedSessions": "0",
     "startDate": "2019-04-09T21:00:00.000Z",
-    "endDate": "2019-05-09T21:00:00.000Z"
+    "endDate": "2020-05-09T21:00:00.000Z"
   },
   {
     "id": 23,
@@ -39,7 +39,7 @@
     "availableSessions": "0",
     "usedSessions": "0",
     "startDate": "2019-04-13T21:00:00.000Z",
-    "endDate": "2019-05-13T21:00:00.000Z"
+    "endDate": "2020-05-13T21:00:00.000Z"
   },
   {
     "id": 25,
@@ -67,7 +67,7 @@
     "availableSessions": "2",
     "usedSessions": "0",
     "startDate": "2019-04-13T21:00:00.000Z",
-    "endDate": "2019-05-13T21:00:00.000Z"
+    "endDate": "2020-05-13T21:00:00.000Z"
   },
   {
     "id": 27,
@@ -109,7 +109,7 @@
     "availableSessions": "3",
     "usedSessions": "1",
     "startDate": "2019-04-13T21:00:00.000Z",
-    "endDate": "2019-05-13T21:00:00.000Z"
+    "endDate": "2020-05-13T21:00:00.000Z"
   },
   {
     "id": 30,
@@ -137,7 +137,7 @@
     "availableSessions": "4",
     "usedSessions": "3",
     "startDate": "2019-04-06T21:00:00.000Z",
-    "endDate": "2019-05-06T21:00:00.000Z"
+    "endDate": "2020-05-06T21:00:00.000Z"
   },
   {
     "id": 32,
@@ -151,7 +151,7 @@
     "availableSessions": "0",
     "usedSessions": "2",
     "startDate": "2019-04-15T21:00:00.000Z",
-    "endDate": "2019-05-15T21:00:00.000Z"
+    "endDate": "2020-05-15T21:00:00.000Z"
   },
   {
     "id": 33,
@@ -179,7 +179,7 @@
     "availableSessions": "5",
     "usedSessions": "0",
     "startDate": "2019-04-01T21:00:00.000Z",
-    "endDate": "2019-05-01T21:00:00.000Z"
+    "endDate": "2020-05-01T21:00:00.000Z"
   },
   {
     "id": 35,
@@ -207,7 +207,7 @@
     "availableSessions": "0",
     "usedSessions": "3",
     "startDate": "2019-04-10T21:00:00.000Z",
-    "endDate": "2019-05-10T21:00:00.000Z"
+    "endDate": "2020-05-10T21:00:00.000Z"
   },
   {
     "id": 37,
@@ -221,7 +221,7 @@
     "availableSessions": "4",
     "usedSessions": "3",
     "startDate": "2019-04-09T21:00:00.000Z",
-    "endDate": "2019-05-09T21:00:00.000Z"
+    "endDate": "2020-05-09T21:00:00.000Z"
   },
   {
     "id": 38,
@@ -249,7 +249,7 @@
     "availableSessions": "2",
     "usedSessions": "2",
     "startDate": "2019-02-15T22:00:00.000Z",
-    "endDate": "2019-03-17T22:00:00.000Z"
+    "endDate": "2020-03-17T22:00:00.000Z"
   },
   {
     "id": 40,
