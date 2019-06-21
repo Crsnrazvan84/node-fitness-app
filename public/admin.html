@@ -4,6 +4,7 @@
 <head>
     <link rel="icon" href="../images/logo.jpeg">
     <title>Fitness App</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='stylesheet' href='stylesheets/style.css' />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
@@ -33,7 +34,7 @@
                             <th>#</th>
                             <th onclick="sortTable(2)" title="Sort by Last Name">Last Name</th>
                             <th onclick="sortTable(3)" title="Sort by First Name">First Name</th>
-                            <th onclick="sortTable(4)" title="Sort by Sessions">Available Sessions</th>
+                            <th onclick="sortTable(4)" title="Sort by Sessions">Sessions</th>
                             <th onclick="sortTable(5)" title="Sort by Date">End Date</th>
                         </thead>
                         <tbody></tbody>
@@ -49,17 +50,19 @@
                 <div class="close" onclick="hideMemberDetails()" title="close">+</div>
                 <h2><span id="lastNameDetails"></span> <span id="firstNameDetails"></span></h2>
 
-                <img id="image">
-                <div id="member-details">
-                    <ul>
+                <div id="member">
+                    <img id="image">
+                    <div id="member-details">
+                        <ul>
 
-                        <li><strong>Phone: </strong><span id="phoneDetails"></span></li>
-                        <li><strong>e-mail: </strong><span id="emailDetails"></span></li>
-                        <li><strong>Available sessions: </strong> <span id="availableSessionsDetails"></span></li>
-                        <li><strong>Used sessions: </strong> <span id="usedSessionsDetails"></span></li>
-                        <li><strong>Start date: </strong><span id="startDateDetails"></span></li>
-                        <li><strong>End date: </strong><span id="endDateDetails"></span></li>
-                    </ul>
+                            <li><strong>Phone: </strong><span id="phoneDetails"></span></li>
+                            <li><strong>e-mail: </strong><span id="emailDetails"></span></li>
+                            <li><strong>Available sessions: </strong> <span id="availableSessionsDetails"></span></li>
+                            <li><strong>Used sessions: </strong> <span id="usedSessionsDetails"></span></li>
+                            <li><strong>Start date: </strong><span id="startDateDetails"></span></li>
+                            <li><strong>End date: </strong><span id="endDateDetails"></span></li>
+                        </ul>
+                    </div>
                 </div>
                 <div id="sessions">
 
