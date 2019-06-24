@@ -7,6 +7,10 @@ body {
   background-size: cover;
 }
 
+body, html {
+  -webkit-tap-highlight-color: transparent;
+}
+
 #hcs-image {
   background-image: url(../images/allpng.png);
   background-position: center;
