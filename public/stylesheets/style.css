@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   margin: 0px;
   min-height: 100vh;
@@ -118,6 +124,7 @@ table {
   width: 100%;
   counter-reset: rowNumber;
   border-radius: 6px;
+
 }
 
 tbody td:first-of-type, thead th:first-of-type {
@@ -135,10 +142,6 @@ table tr td:nth-of-type(2)::before {
   text-align: left;
 }
 
-tbody tr {
-  border: 1px solid #aaaaaa;
-  border-style: solid none;
-}
 
 tbody tr:last-of-type {
   border: none;
@@ -183,7 +186,7 @@ table tbody tr:last-child td:first-child {
 tbody tr:hover {
   cursor: pointer;
   transform: scaleY(1);
-  box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.4);
   transition-duration: 0.1s;
 }
 
@@ -346,10 +349,10 @@ tbody tr:hover {
 
 .addSessionsButton {
   display: inline-block;
-  border: 1px solid #23286b;
+  border: 1px solid rgba(35, 40, 107, 0.3);
   border-radius: 25px;
-  width: 22%;
-  padding: 5px;
+  width: 25%;
+  padding: 5px 10px;
   text-align: center;
   background-color: rgba(0, 255, 255);
   color: #040733;
@@ -358,7 +361,8 @@ tbody tr:hover {
 
 .addSessionsButton:hover {
   cursor: pointer;
-  background-color: orange;
+  background-color: #040733;
+  color: whitesmoke;
   transition-duration: .2s;
 }
 
